@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'localize';
+  text: string = $localize`:@@translateFromTSFile:Some sentences like this sentence come to html from TS file and this example to how to translate this sentences and give to it ID`
 }

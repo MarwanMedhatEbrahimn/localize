@@ -1,0 +1,18 @@
+{
+    "locale": "ar",
+    "translations": {
+      "1055876710220786746": " كيفية تطبيق Angular Localization ",
+      "9011311335617217154": " نحتاج إلى إضافة سمة i8n إلى العلامة التي تحتوي على الجمل التي نحتاج إلى ترجمتها",
+      "translatedSentence": "نوصي باستخدام ID عن طريق إضافة قيمة إلى السمة \"@@ID\" ( الID لا يجب أن تكون هي نفس الجملة المترجمة)",
+      "SomeTimesWeNeedTranslateValues": "نحتاج في بعض الأحيان إلى ترجمة بعض قيم السمات مثل العنوان والبديل لعلامة الصورة أو العنصر النائب لحقل الإدخال",
+      "person": "شخص",
+      "writeHere":"اكتب هنا",
+      "SomeTimesWeNeedTranslatePart": "في بعض الأحيان نحتاج إلى ترجمة جزء من الجمل في العلامة، ولكن هذه المرة يمكننا استخدام ng-container tag",
+      "5348427083018284852": "جنيه",
+      "importantNote": "لا تستخدم اRelative Paths بدلاً من ذلك، استخدم الabsolute paths التي تبدأ من root directory في angular",
+      "WhyAbsolutePath": "في بعض الأحيان، بعد إنشاء المشروع، لا تعمل الصور ومقاطع الفيديو وما إلى ذلك عند الاتصال بRelative Paths",
+      "5484742087554565591": "To create source language file in the root directory of your project",
+      "4204211320232455494": "Write in angular.json this code",
+      "translateFromTSFile": "بعض الجمل مثل هذه الجملة تأتي الي html من TS الملف وهذا المثال لكيفية ترجمة هذه الجمل وإعطاءها ID"
+    }
+  }

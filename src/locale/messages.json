@@ -1,0 +1,17 @@
+{
+  "locale": "en-US",
+  "translations": {
+    "1055876710220786746": " How to Implement Angular Localization ",
+    "9011311335617217154": "We need to add i8n attribute to the tag that have the sentences we need to translate",
+    "translatedSentence": "We recommend to use id by adding a value to the attribute i18n \"@@ID\" (the ID doesn't have to be the same as the translated sentence)",
+    "SomeTimesWeNeedTranslateValues": "Sometimes we need to translate some values of attributes like the title and the alt of an image's tag or the placeholder of an input field",
+    "person": "person",
+    "SomeTimesWeNeedTranslatePart": "Sometimes we need translate part of sentences in tag, it this time we can use ng-container tag",
+    "5348427083018284852": "EGP",
+    "importantNote": "Do not use relative paths instead, use absolute paths that start from the root directory in angular",
+    "WhyAbsolutePath": "Sometimes After building the images, videos and so on call with Relative Paths do not work",
+    "5484742087554565591": "To create source language file in the root directory of your project",
+    "4204211320232455494": "Write in angular.json this code",
+    "translateFromTSFile": "Some sentences like this sentence come to html from TS file and this example to how to translate this sentences and give to it ID"
+  }
+}
